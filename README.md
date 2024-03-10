@@ -1,11 +1,15 @@
-# Sample Snack app
+# Fuga das Galinhas - Prime Video
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+here are some pictures of the project:
+-----------------------------------------------------------------------------
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo cli](https://docs.expo.dev/get-started/installation/#expo-cli)).
+![image](https://github.com/MunirAyoub/ReactJS-FugaDasGalinhas/assets/160236114/5e46924a-9807-435c-9959-c9a385527bb1)
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+-----------------------------------------------------------------------------
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.dev/c/expo-dev-tools/61) or [Discord](https://chat.expo.dev/).
+![image](https://github.com/MunirAyoub/ReactJS-FugaDasGalinhas/assets/160236114/d6935b30-105f-4fa6-87ec-c610172739cc)
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+-----------------------------------------------------------------------------
+
+
+made by João Victor and Munir Ayoub
