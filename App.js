@@ -112,7 +112,7 @@ export default () => (
         
         <Text style={{padding: 40}}></Text>
 
-        <Text style={{ color: '#FFFFFF', fontSize: 15}}>-App clone feito por João Vitor e Munir Ayoub</Text>
+        <Text style={{ color: '#FFFFFF', fontSize: 15}}>-App clone feito por João Vitor(RM550381) e Munir Ayoub(RM550893)</Text>
         <Text style={{ color: '#FFFFFF', fontSize: 10}}>-(Todos os direitos reservados a Prime)</Text>
 
       </View>
